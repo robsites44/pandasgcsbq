@@ -1,0 +1,1 @@
+df.to_gbq(destination_table = '<dataset>.<table>', project_id='<id>', location='eu-west1')
